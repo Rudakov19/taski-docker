@@ -10,9 +10,6 @@ DEBUG = False
 
 ALLOWED_HOSTS = ['158.160.78.117', '127.0.0.1', 'localhost', 'taskistudy.gotdns.ch']
 
-
-# Application definition
-
 INSTALLED_APPS = [
     'api.apps.ApiConfig',
     'django.contrib.admin',
